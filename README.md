@@ -17,7 +17,12 @@
 * Resolve conflicts if needed.
 * Clone, push, and pull from multiple machines.
 
+## Random Walk Project
+* the project is an implimentation of the loop erased radom walk algorithm, used to generate loop-free paths from random walks
+```
+Random walk:  A → B → C → B → D
+Loop erased:  A → B → D   (the loop B → C → B is erased)
+```
 
-
-## New Section in README
-
+### the project :
+> is a program that randomly moves across a grid, but erases loops whenever they appear, ensuring the final path never crosses itself, just like in Wilson’s algorithm or maze generation.
