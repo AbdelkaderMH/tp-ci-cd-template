@@ -15,12 +15,7 @@ Mouad BENSAFIR
 #### Readme modified again
 modifying readme
 
-#Hiba's modification
 
-## This is Chaima's Modification hihi
-## Another modif
-
-## this is Alae's modificatioonnn 
 # I updated the README file
 ## HibaOhd's modification
 #AH modifications.
