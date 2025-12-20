@@ -23,3 +23,5 @@ Loop erased:  A → B → D   (the loop B → C → B is erased)
 
 ### the project :
 > is a program that randomly moves across a grid, but erases loops whenever they appear, ensuring the final path never crosses itself, just like in Wilson’s algorithm or maze generation.
+
+## Here is the change i provided
